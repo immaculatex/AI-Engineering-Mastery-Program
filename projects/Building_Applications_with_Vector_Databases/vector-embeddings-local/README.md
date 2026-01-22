@@ -14,3 +14,7 @@ This project demonstrates how to:
 
 ```bash
 pip install -r requirements.txt
+
+python embed.py
+
+python search.py
